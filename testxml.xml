@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<prefix>BK</prefix>
+	<book>
+		<id>1</id>
+		<name>A</name>
+		<otherInfo>
+			<page>100</page>
+			<author>ATHR-A</author>
+		</otherInfo>
+	</book>
+	<book>
+		<id>2</id>
+		<name>B</name>
+		<otherInfo>
+			<page>101</page>
+			<author>ATHR-B</author>
+		</otherInfo>
+	</book>
+	<book>
+		<id>3</id>
+		<name>C</name>
+		<otherInfo>
+			<page>102</page>
+			<author>ATHR-C</author>
+		</otherInfo>
+	</book>
+	<book>
+		<id>4</id>
+		<name>D</name>
+		<otherInfo>
+			<page>103</page>
+			<author>ATHR-D</author>
+		</otherInfo>
+	</book>
+</books>
